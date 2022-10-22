@@ -1,6 +1,6 @@
 ## Hello, my name is João Pedro.
-I´m a software engineering student.
-This is my github profile and where you can find my projects repositories
+🎒I´m a software engineering student.<br>
+💻This is my github profile and where you can find my projects repositories.
 <hr>
 <div align="center">
   <a href="https://github.com/rafaballerini">
