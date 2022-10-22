@@ -1,3 +1,7 @@
+## Hello, my name is João Pedro.
+I´m a software engineering student.
+This is my github profile and where you can find my projects repositories
+<hr>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedro1711&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
