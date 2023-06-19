@@ -3,7 +3,7 @@
 💻This is my github profile and where you can find my projects repositories.
 <hr>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedro1711&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedro1711&show_icons=true&include_all_commits=true&theme=onedark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedro1711&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div align="center"> 
